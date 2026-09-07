@@ -1,5 +1,9 @@
-# 💰 Expense Tracker is a Flutter app that demonstrates expense management with a clean, device-friendly UI. Users can add and view expenses with details such as title, amount, and date, providing a simple and responsive experience across different screen sizes.
+# 💰 Expense Tracker 
+
+# Expense Tracker is a Flutter app that demonstrates expense management with a clean, device-friendly UI. Users can add and view expenses with details such as title, amount, and date, providing a simple and responsive experience across different screen sizes.
+
 # Screenshots
+
 ![Screenshot_20240912-032111](https://github.com/user-attachments/assets/831d0c31-fd7a-45c2-b8a7-da8a20af1328)
 ![Screenshot_20240912-032101](https://github.com/user-attachments/assets/024bb75a-f300-4eab-ae03-91928954b224)
 ![Screenshot_20240912-032054](https://github.com/user-attachments/assets/83ee9aa9-3e86-43a5-8ce8-04347c9dac3d)
