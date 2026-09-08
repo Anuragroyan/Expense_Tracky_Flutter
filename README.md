@@ -101,7 +101,7 @@ Potential enhancements include:
 This project is created for learning and portfolio purposes.
 
 
-## ScreenShot
+ScreenShot
 
 ![alt text](Screenshot_20240912-202946.jpg)
 ![alt text](Screenshot_20240912-202950.jpg) 
