@@ -101,7 +101,7 @@ Potential enhancements include:
 This project is created for learning and portfolio purposes.
 
 
-## Screenshots
+Screenshots
 
 ![Screenshot_20240912-032111](https://github.com/user-attachments/assets/831d0c31-fd7a-45c2-b8a7-da8a20af1328)
 ![Screenshot_20240912-032101](https://github.com/user-attachments/assets/024bb75a-f300-4eab-ae03-91928954b224)
